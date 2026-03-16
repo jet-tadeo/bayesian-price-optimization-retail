@@ -1,0 +1,6 @@
+R
+rstan
+readr
+dplyr
+ggplot2
+bayesplot
