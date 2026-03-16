@@ -24,6 +24,10 @@ Key variables include:
 - Competitor Pricing
 - Inventory Level
 
+## Data Disclaimer
+
+The dataset used in this project is publicly available on Kaggle and is used for educational and research purposes only.
+
 ## Methodology
 The analysis includes:
 
@@ -63,6 +67,19 @@ The revenue curve indicates diminishing returns beyond this price point.
 - bayesplot
 - ggplot2
 - dplyr
+
+## Reproducing the Project
+
+1. Download the dataset from Kaggle:
+https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset
+
+2. Place the file inside the project directory:
+
+data/retail_store_inventory.csv
+
+3. Run the R script:
+
+scripts/bayesian_price_optimization_model.R
 
 ## Author
 Vince Jefferson I. Tadeo
