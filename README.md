@@ -58,5 +58,7 @@ The revenue curve indicates diminishing returns beyond this price point.
 
 ## Author
 Vince Jefferson I. Tadeo
+
 DAT004M Probability and Statistics
+
 MS in Data Science
