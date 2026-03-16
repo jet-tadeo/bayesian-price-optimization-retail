@@ -6,15 +6,23 @@ This project implements a Bayesian pricing model using Markov Chain Monte Carlo 
 The model estimates demand sensitivity to price, discounts, and contextual variables such as weather and promotions.
 
 ## Dataset
-Retail inventory dataset containing:
+
+This project uses the **Retail Store Inventory Forecasting Dataset** available on Kaggle.
+
+Author: Anirudh Chauhan  
+Source: https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset
+
+The dataset contains approximately **73,100 retail transaction records** with variables related to pricing, demand, promotions, inventory levels, and external factors such as weather conditions. :contentReference[oaicite:1]{index=1}
+
+Key variables include:
 - Price
 - Units Sold
 - Demand Forecast
 - Discount
 - Weather Condition
-- Holiday / Promotion
-
-Total observations: ~73,000 retail sales records.
+- Holiday/Promotion
+- Competitor Pricing
+- Inventory Level
 
 ## Methodology
 The analysis includes:
