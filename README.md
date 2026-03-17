@@ -7,6 +7,7 @@ The model estimates demand sensitivity to price, discounts, and contextual varia
 
 ## Project Structure
 
+```text
 bayesian-price-optimization-retail/
 │
 ├── data
