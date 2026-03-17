@@ -29,6 +29,7 @@ bayesian-price-optimization-retail/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Dataset
 
