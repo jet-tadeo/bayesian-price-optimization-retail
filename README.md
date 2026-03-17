@@ -5,6 +5,30 @@ This project implements a Bayesian pricing model using Markov Chain Monte Carlo 
 
 The model estimates demand sensitivity to price, discounts, and contextual variables such as weather and promotions.
 
+## Project Structure
+
+bayesian-price-optimization-retail/
+│
+├── data
+│   └── retail_store_inventory.csv
+│
+├── scripts
+│   └── bayesian_price_model.R
+│
+├── outputs
+│   ├── traceplot.png
+│   ├── rhat_plot.png
+│   ├── revenue_curve.png
+│   ├── posterior_estimates.png
+│   └── pairwise_correlations.png
+│
+├── docs
+│   └── case_study.pdf
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 ## Dataset
 
 This project uses the **Retail Store Inventory Forecasting Dataset** available on Kaggle.
